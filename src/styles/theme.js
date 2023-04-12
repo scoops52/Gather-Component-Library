@@ -18,7 +18,7 @@ const theme = {
             neutralColor10: '#EBEEEF',
             neutralColor00: '#FDFDFD',
     },
-    fonts: 'Gilroy, sans-serif'
+    font: 'Impact, sans-serif'
 }
 
 export default theme
